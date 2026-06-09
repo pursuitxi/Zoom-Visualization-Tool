@@ -3,10 +3,6 @@ zoom.py — Image Zoom Visualization Tool
 
 Usage: python zoom.py [image_path]
 
-New in v2:
-- Coordinate input box: type X, Y (original-image pixels) to position the source box
-- Mouse click updates the coordinate display in real time
-- Multiple connection-line styles: solid / dashed / dotted / dash-dot / arrow / double
 """
 
 import tkinter as tk
