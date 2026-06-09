@@ -23,7 +23,9 @@ Built with Python + Tkinter + Pillow. No heavy dependencies, runs anywhere Pytho
 
 ## 🖥️ Screenshot
 
-> *(Add a screenshot here after first run)*
+<img src=".\Imgs\img.png">
+
+<img src=".\Imgs\app.png">
 
 ---
 
